@@ -1,0 +1,12 @@
+#!/bin/bash
+yum install -y httpd
+systemctl start httpd
+systemctl enable httpd
+echo "<h1> hello </h1>" > /var/www/html/index.html
+https://us02web.zoom.us/j/87850159705?pwd=DflKDOHHadbw79rquoHSGtOjaPmp9V.1
+87850159705
+586489
+
+https://d-9f677b0019.awsapps.com/start
+pranav
+b^fH6^LhxQ#6w1WCPsGzvA/Q4dRrOZ)7
